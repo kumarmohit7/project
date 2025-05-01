@@ -377,7 +377,3 @@ footer{
     display: flex;
     list-style: none;
 }
-.navbar{
-    position: sticky;
-    top: 10;
-}
